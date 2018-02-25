@@ -1,0 +1,26 @@
+---
+title: "Links"
+---
+
+## Work Links
+
+* [REDCap Training](http://redcaptraining.umms.med.umich.edu/)
+* [REDCap Production](http://redcapproduction.umms.med.umich.edu/)
+* [MADC](http://alzheimers.med.michigan.edu/)
+* [Trello boards](https://trello.com/ldnicolasmay)
+
+## Code
+
+* [`@ldnicolasmay` GitHub](https://github.com/ldnicolasmay)
+* [`@seantma` GitHub](https://github.com/seantma)
+
+## R Links
+
+* [R](https://www.r-project.org/)
+* [RStudio](https://www.rstudio.com/)
+
+## Db Links
+
+## Learning Resources
+
+* [DataCamp](https://www.datacamp.com/)

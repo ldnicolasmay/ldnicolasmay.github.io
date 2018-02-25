@@ -1,0 +1,23 @@
+name: L. D. Nicolas May
+output_dir: '.'
+navbar:
+  title: L. D. Nicolas May
+  left:
+  - text: Links
+    href: links.html
+  right:
+  - icon: fa-envelope fa-lg
+    href: mailto:ldnicolasmay@gmail.com
+  - icon: fa-github fa-lg
+    href: http://github.com/ldnicolasmay
+  - icon: fa-twitter fa-lg
+    href: https://twitter.com/ldnicolasmay
+  - icon: fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/l-d-nicolas-may-77054a48/
+output:
+  html_document:
+    theme: paper
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
+
