@@ -21,6 +21,8 @@ title: "Links"
 
 ## Db
 
+* [SQL Fiddle](http://sqlfiddle.com/)
+
 ## Learning Resources
 
 * [DataCamp](https://www.datacamp.com/)
