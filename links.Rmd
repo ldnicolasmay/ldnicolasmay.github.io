@@ -2,7 +2,7 @@
 title: "Links"
 ---
 
-## Work Links
+## Work
 
 * [REDCap Training](http://redcaptraining.umms.med.umich.edu/)
 * [REDCap Production](http://redcapproduction.umms.med.umich.edu/)
@@ -14,12 +14,12 @@ title: "Links"
 * [`@ldnicolasmay` GitHub](https://github.com/ldnicolasmay)
 * [`@seantma` GitHub](https://github.com/seantma)
 
-## R Links
+## R
 
 * [R](https://www.r-project.org/)
 * [RStudio](https://www.rstudio.com/)
 
-## Db Links
+## Db
 
 ## Learning Resources
 
